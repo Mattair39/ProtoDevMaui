@@ -9,7 +9,7 @@
     xmlns:views="clr-namespace:ProtoDevMaui.Views"
     Shell.TabBarBackgroundColor="{StaticResource Primary}"
     Shell.TabBarTitleColor="{StaticResource White}"
-    Shell.BackgroundColor="{StaticResource Tertiary}"
+    Shell.BackgroundColor="{StaticResource Black}"
     
     Title="ProtoDevMaui">
 

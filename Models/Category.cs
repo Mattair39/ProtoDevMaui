@@ -8,6 +8,14 @@ namespace ProtoDevMaui.Models
 {
     public class Category
     {
+        public Category(int id, string name, short? parentId, string image)
+        {
+            Id = id;
+            Name = name;
+            Image = image;
+            ParentId = parentId;
+        }
+
         public int Id { get; set; }
         public string Name { get; set; }
         public string Image {  get; set; }

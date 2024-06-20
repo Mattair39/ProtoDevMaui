@@ -57,9 +57,27 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\ArdNanoInicio.webp" />
+	  <None Remove="Resources\Images\arduinoinicio.jpg" />
+	  <None Remove="Resources\Images\arduinonano.jpg" />
+	  <None Remove="Resources\Images\arduinonanoinicio.webp" />
+	  <None Remove="Resources\Images\avanzado.png" />
+	  <None Remove="Resources\Images\bajoconsumo.jpg" />
+	  <None Remove="Resources\Images\basico.jpg" />
+	  <None Remove="Resources\Images\cables.jpg" />
 	  <None Remove="Resources\Images\categories.png" />
 	  <None Remove="Resources\Images\home.png" />
+	  <None Remove="Resources\Images\intermedio.png" />
+	  <None Remove="Resources\Images\kitherramientas.jpg" />
+	  <None Remove="Resources\Images\microinicio.jpg" />
+	  <None Remove="Resources\Images\nic.png" />
 	  <None Remove="Resources\Images\orders.png" />
+	  <None Remove="Resources\Images\placablanca.jpg" />
+	  <None Remove="Resources\Images\placamicro.jpg" />
+	  <None Remove="Resources\Images\propositogeneral.jpg" />
+	  <None Remove="Resources\Images\proto.jpg" />
+	  <None Remove="Resources\Images\sbcinicio.png" />
+	  <None Remove="Resources\Images\sbcinicio2.jpg" />
 	  <None Remove="Resources\Images\user.png" />
 	</ItemGroup>
 
